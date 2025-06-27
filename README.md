@@ -8,7 +8,7 @@
 
 **SwoleNormous-GymFit** is a dynamic, web-based gym and fitness training application built with React, Vite, and TailwindCSS. It provides users with intelligent workout generation, exercise guidance, and personalized training plans, leveraging advanced algorithmic logic for routine creation. The app is designed for both beginners and advanced gym-goers, supporting a variety of goals and equipment availability.
 
-> **Live Demo:** https://swolenormous-arnob.netlify.app
+- **Live Demo:** [https://swolenormous-arnob.netlify.app](https://swolenormous-arnob.netlify.app)
 
 ---
 
