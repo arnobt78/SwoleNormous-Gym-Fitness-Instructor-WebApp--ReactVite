@@ -1,4 +1,4 @@
-# SwoleNormous-Gym-Fitness-Instructor-WebApp--ReactVite
+# SwoleNormous Gym/Fitness Instructor - ReactVite Web App
 
 ![Screenshot 2024-09-08 at 01 19 47](https://github.com/user-attachments/assets/20bc47ba-6ccf-458b-bd37-6449cd0f1c1f) ![Screenshot 2024-09-08 at 01 20 28](https://github.com/user-attachments/assets/73df8bd0-2946-46d4-8b92-28a154173830) ![Screenshot 2024-09-08 at 01 21 18](https://github.com/user-attachments/assets/ffe45b85-5246-4b4e-9cc9-e1c77507519d) ![Screenshot 2024-09-08 at 01 22 12](https://github.com/user-attachments/assets/11391ac5-fbad-4754-bfa3-3d77d5a970c0)
 
